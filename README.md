@@ -1,6 +1,6 @@
 # Bradley Scott Schwab
 #### scott@codebyscott.com or scott.schwab@gmail.com
-#### 1214 Rivoli Drive, Manchester MO 63011
+#### 1214 Rivoli Drive, Manchester, MO 63011
 #### 314-488-4471
 
 ## Summary
