@@ -12,6 +12,7 @@ Experienced Senior Software Developer with over a decade of expertise in Python 
 + Frameworks: Pandas, REACT, PowerBI
 + Environments: Azure, Amazon, Kubernetes, Docker, GitHub Actions
 + Tools: Jenkins, Terraform, Ansible, GitHub
++ Databases: PostgreSQL, Maria, Oracle, CosmosDB
 + CI/CD pipeline development
 + Data extraction and manipulation
 + Software development best practices
@@ -27,6 +28,15 @@ Lumen Technologies
 + Implemented a tool for SOX compliance validation to ensure repository compliance, using GitHub webhooks and Azure Functions.
 + Worked on enhancing software development processes and tools.
 
+### Senior Software Developer
+GeoEye
+2006 - 2013
+
++ Software development used for satelite image processing.
++ Software for data management.
++ Configuration and release coordination.
+  
+  
 ## Education
 
 ### Bachelor of Science in Computer Science
